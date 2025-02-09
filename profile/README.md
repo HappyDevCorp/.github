@@ -1,4 +1,9 @@
-## Hi there 👋
+# Welcome to HappyDev 🙌
+__*Dhruthi. Dhrushti. Mathi. Dhaakshyam.*__
+
+*We are making AI do the boring jobs, so that humans can work on the interesting and creative things which humans are made for.*
+
+We have some priorities to take care of before we make any difference in the industry. Let's look at some of the usecases we will be showcasing as the services we can provide.
 
 <!--
 
