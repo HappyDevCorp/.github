@@ -5,6 +5,12 @@ __*Dhruthi. Dhrushti. Mathi. Dhaakshyam.*__
 
 We have some priorities to take care of before we make any difference in the industry. Let's look at some of the usecases we will be showcasing as the services we can provide.
 
+Each and every idea is divided into multiple phases:
+* _Phase 1_ - Working POC with Minimal Testing 🎉
+* _Phase 2_ - Extensively Tested Application with Potential for Scaling 🥉
+* _Phase 3_ - Ready for Beta Launch 🥈
+* _Phase 4_ - Ready for Hard Launch 🥇
+  
 <!--
 
 **Here are some ideas to get you started:**
