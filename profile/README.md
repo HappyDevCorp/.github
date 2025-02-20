@@ -10,7 +10,8 @@ Each and every idea is divided into multiple phases:
 * _Phase 2_ - Extensively Tested Application with Potential for Scaling 🥉
 * _Phase 3_ - Ready for Beta Launch 🥈
 * _Phase 4_ - Ready for Hard Launch 🥇
-  
+
+__You can find content made on trends in AI _[@datasciencenerchuko](https://www.youtube.com/@datasciencenerchuko)___ 
 <!--
 
 **Here are some ideas to get you started:**
