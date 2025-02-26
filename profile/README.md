@@ -11,6 +11,9 @@ Each and every idea is divided into multiple phases:
 * _Phase 3_ - Ready for Beta Launch 🥈
 * _Phase 4_ - Ready for Hard Launch 🥇
 
+__Work in Progress:__
+* [ai-ft-tellm](https://github.com/HappyDevCorp/ai-ft-tellm) - A Repository to hold finetuning scripts to prepare Telugu LLMs.
+
 __You can find content made on trends in AI _[@datasciencenerchuko](https://www.youtube.com/@datasciencenerchuko)___ 
 <!--
 
